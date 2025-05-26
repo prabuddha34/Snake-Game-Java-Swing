@@ -28,6 +28,10 @@ Control the snake using `W`, `A`, `S`, `D` keys, eat apples to grow longer, and 
 
 
 
+https://github.com/user-attachments/assets/2d2fbe5d-7b43-4ede-95e9-2eabf15ef73e
+
+
+
 ## 🚀 How to Run
 
 ### 🔧 Option 1: Run with an IDE
