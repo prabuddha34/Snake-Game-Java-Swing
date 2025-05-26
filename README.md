@@ -24,6 +24,10 @@ Control the snake using `W`, `A`, `S`, `D` keys, eat apples to grow longer, and 
 
 ---
 
+### Video
+
+
+
 ## 🚀 How to Run
 
 ### 🔧 Option 1: Run with an IDE
@@ -36,3 +40,5 @@ Control the snake using `W`, `A`, `S`, `D` keys, eat apples to grow longer, and 
 ```bash
 javac SnakePanel.java SnakeGame.java
 java SnakeGame
+
+
